@@ -6,7 +6,7 @@
 
 ![SaintDK's Stats](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SaintDK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true)
-___
+
 <div style="max-width: 100%; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100" style="width: 100%; height: 250px; ">
 </div>
