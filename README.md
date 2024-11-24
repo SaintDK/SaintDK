@@ -7,8 +7,7 @@
 ![SaintDK's Stats](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SaintDK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true)
 ___
-![SaintDK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  [![](https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![SaintDK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) [![](https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🧰 Languages and Tools
 
