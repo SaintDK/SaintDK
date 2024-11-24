@@ -1,23 +1,72 @@
 [![codewars](https://www.codewars.com/users/SaintDK/badges/large)](https://www.codewars.com/users/SaintDK)   
 
 ### 🧰 Languages and Tools
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
-<img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="65" height="65" /><br />
+      Java
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="65" height="65" /><br />
+      Kotlin
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="65" height="65" /><br />
+      Python
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="65" height="65" /><br />
+      HTML5
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65" /><br />
+      CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="65" height="65" /><br />
+      NumPy
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" /><br />
+      Pandas
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" /><br />
+      Scikit-learn
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="65" height="65" /><br />
+      TensorFlow
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="65" height="65" /><br />
+      Keras
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="65" height="65" /><br />
+      PyTorch
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="65" height="65" /><br />
+      OpenCV
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="65" height="65" /><br />
+      Apache Spark
+    </td>
+  </tr>
+</table>
 
 ___
 
 ### 📊 Stats
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&pretty=false" />
 </a>
