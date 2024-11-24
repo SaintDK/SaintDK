@@ -1,4 +1,4 @@
-<h1>CodeWars<>
+<h1>CodeWars<h1>
 [![codewars](https://www.codewars.com/users/SaintDK/badges/large)](https://www.codewars.com/users/SaintDK)   
 
 ### 📊 Stats
