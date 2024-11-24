@@ -5,6 +5,8 @@
 ![SaintDK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true)
 ___
 ![SaintDK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=400)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%; height: auto;">
+
 ___
 
 <h1>CodeWars<h1>
