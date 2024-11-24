@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65" height="65" /><br />
       Java
     </td>
     <td align="center" width="150">
@@ -33,7 +33,7 @@
       NumPy
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" height="65" /><br />
       Pandas
     </td>
     <td align="center" width="150">
