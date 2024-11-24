@@ -1,5 +1,7 @@
 [![codewars](https://www.codewars.com/users/SaintDK/badges/large)](https://www.codewars.com/users/SaintDK)   
 
+![SaintDK's Stats](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ### 🧰 Languages and Tools
 
 <table>
