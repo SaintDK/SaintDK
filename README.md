@@ -45,7 +45,7 @@
       TensorFlow
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="65" height="65" /><br />
       Keras
     </td>
   </tr>
