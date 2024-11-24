@@ -55,7 +55,7 @@
       PyTorch
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="65" height="65" /><br />
       OpenCV
     </td>
     <td align="center" width="150">
