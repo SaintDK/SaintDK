@@ -15,7 +15,7 @@
 <img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
 <img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 ### 📊 Stats
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&pretty=false" />
