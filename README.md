@@ -19,7 +19,7 @@
       <br>Python
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65" /><br />
       HTML5
     </td>
     <td align="center" width="150">
