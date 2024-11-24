@@ -16,8 +16,6 @@
 <img align="left" width="150px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 <br /><br /> <!-- Добавляем лишние отступы -->
 <br /><br /> 
-<br /><br /> 
-#
 
 ### 📊 Stats
 <a href="https://visitcount.itsvg.in">
