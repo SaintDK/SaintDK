@@ -41,7 +41,7 @@
       Scikit-learn
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="65" height="65" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="65" height="65" /><br />
       TensorFlow
     </td>
     <td align="center" width="150">
