@@ -9,9 +9,7 @@ ___
 ___
 ![SaintDK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=SaintDK&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🧰 Languages and Tools
 
