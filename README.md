@@ -92,7 +92,7 @@ ___
 
 <table style="width: 100%; max-width: 900px; margin: auto;">
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="200">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65" height="65" /><br />
       Java
     </td>
