@@ -7,7 +7,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; height: auto;" alt="SaintDK's Stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&timestamp=<?= time() ?>" style="width: 100%; height: auto;" alt="SaintDK's Stats">
+<script>
+  const img = document.createElement('img');
+  img.src = `https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&timestamp=${new Date().getTime()}`;
+  img.style.width = '100%';
+  img.style.height = 'auto';
+  img.alt = "SaintDK's Stats";
+  document.body.appendChild(img);
+</script>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true" style="width: 100%; height: auto;" alt="SaintDK's Streak">
 <div style="max-width: 100%; overflow: hidden;">
