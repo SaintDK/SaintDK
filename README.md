@@ -5,10 +5,10 @@
 
 <h1>📊 Stats<h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; height: auto;" alt="SaintDK's Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true" style="width: 100%; height: auto;" alt="SaintDK's Streak">
+<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; height: auto;" alt="SaintDK's Stats" Cache-Control: no-cache>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true" style="width: 100%; height: auto;" alt="SaintDK's Streak" Cache-Control: no-cache>
 <div style="max-width: 100%; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100" style="width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100" style="width: 100%; height: auto; Cache-Control: no-cache">
 </div>
 
 ___
