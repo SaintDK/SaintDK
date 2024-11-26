@@ -9,9 +9,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=2" style="width: 100%; height: auto;" alt="SaintDK's Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=2" style="width: 100%; height: auto;">
 
-
-import random
-random_value = random.randint(1, 100)
+const randomValue = Math.floor(Math.random() * 100000000000) + 1;
 
 ___
 
