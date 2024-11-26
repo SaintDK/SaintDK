@@ -5,20 +5,9 @@
 
 <h1>📊 Stats<h1>
     
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/SaintDK">
-                <img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="SaintDK's Stats" style="width: 100%; height: auto;" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/SaintDK">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="SaintDK's Top Languages" style="width: 100%; height: auto;" />
-            </a>
-        </td>
-    </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true?v=${randomVersion}" style="width: 100%; height: auto;" alt="SaintDK's Stats"\>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=${randomVersion}" style="width: 100%; height: auto;" alt="SaintDK's Streak"\>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=${randomVersion}" style="width: 100%; height: auto;"\>
 
 ___
 
