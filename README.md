@@ -5,9 +5,10 @@
 
 <h1>📊 GitHub Stats<h1>
     
-![](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache=1234567890)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=dark&hide_border=false&cache=1234567890)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache=1234567890)
+<a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaintDK&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="SaintDK's github stats" style="width: 100%;" />
+</a> | <a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&layout=compact&theme=vue-dark&hide_border=true" style="width: 100%;" /></a>
+<a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true" alt="SaintDK's Streak" style="width: 100%;" /></a>
+
 
 ___
 
