@@ -6,15 +6,8 @@
 <h1>📊 Stats<h1>
 
 <script>
-    const randomVersion = Math.floor(Math.random() * 1000); // Генерация случайного числа от 0 до 999
-
-    document.write(`
-        <img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true?v=${randomVersion}" style="width: 100%; height: auto;" alt="SaintDK's Stats">
-
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=${randomVersion}" style="width: 100%; height: auto;" alt="SaintDK's Streak">
-
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=${randomVersion}" style="width: 100%; height: auto;">
-    `);
+    const r = Math.floor(Math.random() * 1000); 
+    document.write(`<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true?v=${r}" style="width:100%; height:auto;" alt="SaintDK's Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=${r}" style="width:100%; height:auto;" alt="SaintDK's Streak"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=${r}" style="width:100%; height:auto;">`);
 </script>
 
 ___
