@@ -5,12 +5,9 @@
 
 <h1>📊 GitHub Stats<h1>
     
-![](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SaintDK&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache=1234567890)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=dark&hide_border=false&cache=1234567890)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache=1234567890)
 
 ___
 
