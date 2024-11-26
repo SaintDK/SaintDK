@@ -9,6 +9,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=2" style="width: 100%; height: auto;" alt="SaintDK's Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=2" style="width: 100%; height: auto;">
 
+
 <script>
     const version = Date.now(); // Генерирует уникальное значение на основе текущего времени
     document.write(`
@@ -17,6 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100&v=${version}" style="width: 100%; height: auto;">
     `);
 </script>
+
 
 ___
 
