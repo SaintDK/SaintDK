@@ -5,7 +5,8 @@
 
 <h1>📊 Stats<h1>
 
-<a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaintDK&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="SaintDK's github stats" style="width: 100%;" /></a> <a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&layout=compact&theme=vue-dark&hide_border=true" style="width: 100%;" /></a>
+<a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaintDK&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="SaintDK's github stats" style="width: 100%;" /></a> 
+<a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&layout=compact&theme=vue-dark&hide_border=true" style="width: 100%;" /></a>
 <a href="https://github.com/SaintDK"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true" alt="SaintDK's Streak" style="width: 100%;" /></a>
 
 
