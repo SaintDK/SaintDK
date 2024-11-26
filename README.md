@@ -5,11 +5,15 @@
 
 <h1>📊 Stats<h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true?v=2" style="width: 100%; height: auto;" alt="SaintDK's Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=2" style="width: 100%; height: auto;" alt="SaintDK's Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=2" style="width: 100%; height: auto;">
+<?php
+$randomVersion = rand(1, 1000);
+?>
 
-const randomValue = Math.floor(Math.random() * 100000000000) + 1;
+<img src="https://github-readme-stats.vercel.app/api?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true?v=<?php echo $randomVersion; ?>" style="width: 100%; height: auto;" alt="SaintDK's Stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintDK&theme=vue-dark&hide_border=true?v=<?php echo $randomVersion; ?>" style="width: 100%; height: auto;" alt="SaintDK's Streak">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintDK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=100?v=<?php echo $randomVersion; ?>" style="width: 100%; height: auto;">
 
 ___
 
